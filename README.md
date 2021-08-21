@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Madhubala
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me madhubala01020304@gmail.com
 
 <!---
